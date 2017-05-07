@@ -67,7 +67,7 @@ namespace Boolean
             else
             {
                 precio = precio * 0.95;
-                Console.WriteLine("Tiene un  5% de descuento, El precio final es: $" + precio);
+                Console.WriteLine("Tiene un 5% " + precio);
                 Console.WriteLine("Compró " + Cant + " unidades; El precio TOTAL es: " + "$" + (Cant * precio));
                 Console.ReadLine();
             }
