@@ -1,0 +1,4 @@
+C:\Repository\Reposiprueba\bin\Debug\Reposiprueba.exe
+C:\Repository\Reposiprueba\bin\Debug\Reposiprueba.pdb
+C:\Repository\Reposiprueba\obj\x86\Debug\Reposiprueba.exe
+C:\Repository\Reposiprueba\obj\x86\Debug\Reposiprueba.pdb
